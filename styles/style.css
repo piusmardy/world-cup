@@ -5,6 +5,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: white;
     color: #ffffff;
+    font-size: 12px;
 
 }
 
@@ -17,7 +18,7 @@ main {
 
 .container {
     background-color: black;
-    width: 950px;
+    width: 970px;
     height: 440px;
     padding: 30px;
     border-radius: 5px;
@@ -29,7 +30,7 @@ main {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .link-button {
@@ -39,4 +40,13 @@ h1 {
     color: white;
     font-weight: 400;
     border-radius: 5px;
+}
+
+.first {
+    width: 60%;
+    padding-left: 5%;
+}
+
+.first img {
+    width: 102%;
 }
