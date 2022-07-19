@@ -17,10 +17,26 @@ main {
 
 .container {
     background-color: black;
-    width: 780px;
+    width: 950px;
+    height: 440px;
     padding: 30px;
     border-radius: 5px;
     margin-top: 21px;
     display: flex;
     justify-content: center;
+    border-radius: 20px;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
 }
